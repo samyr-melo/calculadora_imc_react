@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Button from './componentes/button'
+import Button from './componentes/Button'
 import Form from './Form'
 import ImcTable from './componentes/ImcTable';
 import { data } from './data/data';
