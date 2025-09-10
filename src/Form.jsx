@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Button from './componentes/button'
+import Button from './componentes/Button'
 import './form.css'
 
 function Form({calcImc}) {
