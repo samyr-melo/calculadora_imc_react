@@ -1,6 +1,6 @@
 import React from 'react';
 import './imcTable.css';
-import Button from './button';
+import Button from './Button';
 
 
 function ImcTable({data, imc, info, infoClass, resetCalc}) {
